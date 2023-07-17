@@ -1,6 +1,5 @@
 **About Me**
-
-- I am a Frontend Developer  from Tanzania.
+ I am a Frontend Developer  from Tanzania.
 - I’m working as a Software Developer and contributing to frontend for building web applications
 - 👀 I’m interested in Programming
 - 💞️ I’m looking to collaborate on difference projects
